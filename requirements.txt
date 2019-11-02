@@ -40,7 +40,7 @@ numpy==1.7.1
 path.py==5.2
 perf==0.1
 pexpect==2.3
-Pillow==2.0.0
+Pillow==6.2.0
 pyasn1==0.4.3
 pycparser==2.18
 pycurl==7.19.0
