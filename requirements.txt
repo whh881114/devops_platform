@@ -11,7 +11,7 @@ coreschema==0.0.4
 cryptography==2.2.2
 curtsies==0.3.0
 decorator==3.4.0
-Django==1.11.13
+Django==1.11.29
 django-crispy-forms==1.7.2
 django-encrypted-model-fields==0.5.5
 django-filter==1.1.0
